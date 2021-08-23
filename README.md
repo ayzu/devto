@@ -1,4 +1,4 @@
-**Update**: the project is replaced by (publisher)[https://github.com/ayzu/publsiher]: a CLI tool that supports several platforms including dev.to.
+**Update**: the project is replaced by [publisher](https://github.com/ayzu/publsiher): a CLI tool that supports several platforms including dev.to.
 
 # Devto Client
 
