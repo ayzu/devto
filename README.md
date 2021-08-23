@@ -1,3 +1,5 @@
+**Update**: the project is replaced by (publisher)[https://github.com/ayzu/publsiher]: a CLI tool that supports several platforms including dev.to.
+
 # Devto Client
 
 This application reads your article and publishes or edits it in `dev.to` portal.
